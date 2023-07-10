@@ -1,10 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Code.+Collaborate.+Conquer.+Welcome,+friend!)](https://git.io/typing-svg) 👋
 
-<!--
-**vivek-pr/vivek-pr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
  🔭 I’m currently working with loveseat.com
  🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on ...
