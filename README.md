@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Lead+Engineer+%40+Capital+One;Building+Resilient+Cloud+Infrastructure;12%2B+Years+in+Enterprise+Tech;Welcome%2C+fellow+developers!)](https://git.io/typing-svg) 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Staff+Engineer+%40+Capital+One;Building+Resilient+Cloud+Infrastructure;12%2B+Years+in+Enterprise+Tech;Welcome%2C+fellow+developers!)](https://git.io/typing-svg) 👋
 
 # 🚀 **About Me**
 
