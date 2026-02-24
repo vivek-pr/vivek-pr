@@ -2,7 +2,7 @@
 
 # 🚀 **About Me**
 
-**Lead Engineer at Capital One** | 12+ years specializing in **cloud, distributed systems & fintech** | OSS Mentor
+**Staff Engineer at Capital One** | 12+ years specializing in **cloud, distributed systems & fintech** | OSS Mentor
 
 🏢 **Current Role**: Leading enterprise-scale cloud infrastructure initiatives at Capital One, architecting resilient systems that serve millions of customers daily
 
