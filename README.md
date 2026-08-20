@@ -4,7 +4,7 @@
 
 **Staff AI Engineer at Arctic WOlf** | 12+ years specializing in **cloud, distributed systems & fintech** | OSS Mentor
 
-🏢 **Current Role**: Leading enterprise-scale cloud infrastructure initiatives at Capital One, architecting resilient systems that serve millions of customers daily
+🏢 **Current Role**: Leading enterprise-scale cloud infrastructure initiatives at Arctic WOlf, architecting resilient systems that serve millions of customers daily
 
 🎯 **Tech Stack & Expertise**:
 - **Cloud Platforms**: AWS (Expert), Kubernetes, Docker
